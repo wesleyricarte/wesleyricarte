@@ -1,4 +1,4 @@
-# Hey there, I'm Wesley Ricarte! I'm a Full-Stack Developer, and these are some technologies I work with:
+# Hey there, I'm Wesley Ricarte! I'm a React/Python Full-Stack Developer, and these are some technologies I work with:
 
 <div style="display: inline_block"><br>
     <img align="center" alt="VSCode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
