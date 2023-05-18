@@ -5,6 +5,10 @@
     <img align="center" alt="VSCode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Figma" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img style="width: 5px;"></img>
+    <img align="center" alt="Insomnia" height="60" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
+    <img style="width: 15px;"></img>
+    <img align="center" alt="DBeaver" height="60" src="https://dbeaver.com/img/dbeaver-head.png">  
 </div>
 <br>
 
@@ -23,9 +27,10 @@
     <img align="center" alt="React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="SASS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="MaterialUI" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
-    <img align="center" alt="Next.js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+    <img style="width: 10px;"></img>
+    <img align="center" alt="Next.js" height="60" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png">
     <img align="center" alt="NodeJs" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Django" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> 
+    <img align="center" alt="Django" height="60" src="https://img.stackshare.io/service/994/4aGjtNQv.png"> 
     <img align="center" alt="PyTest" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg"> 
     <img align="center" alt="PostgreSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
 </div>
