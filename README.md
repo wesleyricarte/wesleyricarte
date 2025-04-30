@@ -1,21 +1,5 @@
 # Hey there, I'm Wesley Ricarte! I'm a NextJS, NestJS and Python Full-Stack Developer, and these are some technologies I work with:
 
-#### Some tools I'm familiar with:
-<div style="display: inline_block"><br>
-    <img align="center" alt="VSCode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Figma" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    <img style="width: 5px;"></img>
-    <img align="center" alt="Insomnia" height="60" src="https://www.svgrepo.com/show/353904/insomnia.svg">
-    <img style="width: 5px;"></img>
-    <img align="center" alt="Postman" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-    <img style="width: 15px;"></img>
-    <img align="center" alt="DBeaver" height="60" src="https://dbeaver.com/img/dbeaver-head.png">
-    <img align="center" alt="PostgreSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
-    <img align="center" alt="Supabase" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"> 
-</div>
-<br>
-
 #### The languages I code:
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,7 +13,6 @@
 #### And here some libs and frameworks I have experienced:
 <div style="display: inline_block"><br>
     <img align="center" alt="React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Tanstack" height="60" width="60" src="https://tanstack.com/_build/assets/logo-color-600w-Er4SOkq1.png">
     <img align="center" alt="FramerMotion" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/free-framer-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944880.png?f=webp&w=256">
     <img align="center" alt="AntDesign" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/antdesign/antdesign-original.svg">
     <img align="center" alt="MaterialUI" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
