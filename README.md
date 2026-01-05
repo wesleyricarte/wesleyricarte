@@ -1,5 +1,5 @@
 # Hey there, I'm Wesley Ricarte! 
-## Full-Stack Software Engineer @VoaHealth | React • Next.js • Nest.js • Node.js • Python • Django • SQL Server
+## Full-Stack Developer | Software Engineer | React • Next.js • Python • Django • Node.js • Nest.js • TypeScript • SQL Server • PostgreSQL • AWS • Docker • CI/CD
 
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
