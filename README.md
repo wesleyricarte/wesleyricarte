@@ -12,15 +12,15 @@
     <img align="center" alt="AntDesign" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/antdesign/antdesign-original.svg">
     <img align="center" alt="MaterialUI" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
     <img style="width: 8px;"></img>
-    <img align="center" alt="PostCSS" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PostCSS_Logo.svg/1200px-PostCSS_Logo.svg.png">
+    <img align="center" alt="PostCSS" height="60" width="60" src="https://postcss.org/assets/postcss-CsElRNOW.svg">
     <img style="width: 8px;"></img>
     <img align="center" alt="Axios" height="60" width="60" src="https://user-images.githubusercontent.com/43313420/105893220-1bae8780-6013-11eb-87be-eeac845ecc6f.png">
     <img style="width: 8px;"></img>
-    <img align="center" alt="NextAuth" height="60" width="54" src="https://camo.githubusercontent.com/f4758620c60f931a2b9bfe132176a2e6dee2cbbb80c713639d4a969ab6100b8e/68747470733a2f2f70726576696577732e6a756d7073686172652e636f6d2f7468756d622f38313562633031623739366464366631373333633935376335616631393439333334623665626631613431636237383263383138663362633833383430343965323531646361366532336330633437373638636137393739366539393036376132343934633961336461393961353036326534353030343134306264363334613037363935343432643631633366663961323139656531323435613230656533">
+    <img align="center" alt="NextAuth" height="60" width="54" src="https://next-auth.js.org/img/logo/logo-xs.png">
     <img style="width: 8px;"></img>
     <img align="center" alt="Next.js" height="60" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png">
     <img style="width: 8px;"></img>
-    <img align="center" alt="Nest.js" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png">
+    <img align="center" alt="Nest.js" height="60" src="https://nestjs.com/logo-small-gradient.0ed287ce.svg">
     <img align="center" alt="NodeJs" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="ExpressJs" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
     <img align="center" alt="Prisma" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
@@ -36,7 +36,6 @@
     <img align="center" alt="Clarity" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clarity/clarity-original.svg">
     <img align="center" alt="Sentry" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg">
     <img align="center" alt="StripeApi" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/free-stripe-logo-icon-download-in-svg-png-gif-file-formats--flat-social-media-branding-pack-logos-icons-498440.png">
-    <img align="center" alt="OpenAIApi" height="60" width="60" src="https://socialmarketing90.com/wp-content/uploads/2023/12/OpenAI-Insta-Version-SVG-8.svg">
 </div>
 <br>
 
